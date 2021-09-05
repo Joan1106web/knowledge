@@ -8,4 +8,4 @@
 - 或者在用户目录找到.gitconfig 文件直接修改
 
 #### git merge 合并分支出错了怎么办？
-- 代码回滚
+- 代码回滚: git reset --hard [commitId]
