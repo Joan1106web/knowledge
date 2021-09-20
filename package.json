@@ -1,0 +1,12 @@
+{
+  "name": "knowledge",
+  "version": "1.0.0",
+  "description": "知识点巩固",
+  "main": "./src/index.ts",
+  "repository": "https://github.com/Joan1106web/knowledge.git",
+  "author": "Joan <1345646244@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
