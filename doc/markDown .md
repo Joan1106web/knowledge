@@ -75,8 +75,9 @@ function(){
   使用空格表示换行，也可以在文本的末尾加两个
   空格进行换行
 
-### MarkDown的其他技巧可以查看官方文档
-- markDown支持直接使用html标签，具体看[官网文档](http://markdown.p2hp.com/)
+### MarkDown 的其他技巧可以查看官方文档
+
+- markDown 支持直接使用 html 标签，具体看[官网文档](http://markdown.p2hp.com/)
 
 [^文件脚注]: 文本脚注说明
 
